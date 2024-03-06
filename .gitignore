@@ -1,0 +1,5 @@
+prj_env/
+notebooks/.ipynb_checkpoints/
+requirements*.in
+.DS_Store
+.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+Week_3 filter=lfs diff=lfs merge=lfs -text
+data/clean/cleaned_salaries.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/salaries.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/*/*.csv filter=lfs diff=lfs merge=lfs -text
