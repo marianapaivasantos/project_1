@@ -11,11 +11,23 @@ I also created a "year" column, based on the end of the period date for each sal
 
 # Analysis
 
-I started my analysis by checking the differences in average salaries between states, and found out there are three states that stand out for having the highest salaries, Baja California Sur, Chihuahua and Sinaloa.
-Then I analyzed how the federal salaries in Mexico have evolved from 2015 through 2020. For my surprise, the data shows that these salaries are getting lower over the years, with the exception of 2018. I found that the Gini Coefficient of Mexico is 0.43, while the Gini Coefficient of the OECD (which Mexico is part of) is 0.32, showing that Mexico still has a long way ahead in fighting inequalities regarding wages.
-The salary distribution shows that almost every salary is below 1 million MXN, with a few outliers that receive a higher salary (the average net salary is 12 919.24 MXN).
+# Hypothesis
+ 1) Salaries vary significantly according to the state
+ 2) Salaries exhibit temporal variations influenced by economic cycles
+ 3) Salaries follow a non-uniform distribution with potential inequalities
+ 4) Over time, salaries have undergone changes along with fluctuations in tax rates
+ 5) Certain occupations are likely to be identified as top-paying jobs
+
+# Conclutions 
+I started my analysis by checking the differences in average salaries between states, and found out there are three states that stand out for having the highest salaries, Baja California Sur, Chihuahua and Sinaloa. These states are near each other and Chihuahua is actually on the boarder with the USA, which might help justificate having highest salaries. 
+
+Then I analyzed how the federal salaries in Mexico have evolved from 2015 through 2020. For my surprise, the data show that the salaries have decrease through time, except for 2018.  Mexico economy has increased between 2015 and 2019, so I would except the salaries followed that as well, but they didn't.
+
+The salary distribution shows that almost every salary is below 25 000 MXN, with a few outliers that receive a much higher salary. I found that the Gini Coefficient of Mexico is 0.43, while the Gini Coefficient of the OECD (which Mexico is part of) is 0.32, showing that Mexico still has a long way ahead in fighting inequalities regarding wages.
+
 Looking at the average net and gross salaries, and nominal tax, I found an odd behavior. I would expect the salaries and the tax to move in the same direction, but I found the opposite, with the exception of the first time period (from 2015 to 2016), when both the salaries and the tax decreased. But when looking at the rest of the data, I found that when the salaries increased the tax decreased, and when the salaries decreased the tax increased. I am not sure why this is but might be related to changes in tax policies and/or changes in tax brackets.
-Regarding the top paying jobs, Civil Protection Secretariat is on the top of the list, followed by Undersecretary of Coordination of Preventive Plans and Programs, and Director of Institutional Liaison.
+
+Regarding the top paying jobs, the data showed that Civil Protection Secretariat is the top one, followed by Undersecretary of Coordination of Preventive Plans and Programs, and Director of Institutional Liaison, this might be due to factors such as demand, skill requirements, and industry profitability.
 
 
 # Major Obstacles
